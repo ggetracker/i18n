@@ -1,0 +1,68 @@
+name: Check Modified Translations
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - '*.json'
+  push:
+    branches:
+      - main
+    paths:
+      - '*.json'
+  workflow_dispatch:
+
+
+jobs:
+  check_translations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Check modified translation files
+        run: |
+          echo "Getting modified JSON files..."
+          MODIFIED=$(git diff --name-only origin/${{ github.base_ref }} | grep '\.json$' | grep -v '^fr\.json$' || true)
+
+          if [ -z "$MODIFIED" ]; then
+            echo "No modified translation files to check."
+            exit 0
+          fi
+
+          echo " Modified files:"
+          echo "$MODIFIED"
+
+          SOURCE=fr.json
+          ERRORS=0
+
+          for file in $MODIFIED; do
+            echo "Checking $file"
+
+            if [ ! -f "$file" ]; then
+              echo "Error : File $file does not exist"
+              ERRORS=1
+              continue
+            fi
+
+            # Check that file is valid JSON
+            if ! jq empty "$file" > /dev/null 2>&1; then
+              echo "Error : $file is not valid JSON"
+              ERRORS=1
+              continue
+            fi
+
+            # Compare keys with fr.json
+            DIFF=$(jq -r 'keys_unsorted' "$SOURCE" | diff -u - <(jq -r 'keys_unsorted' "$file") || true)
+            if [ -n "$DIFF" ]; then
+              echo "Error : Keys mismatch in $file compared to $SOURCE:"
+              echo "$DIFF"
+              ERRORS=1
+            else
+              echo "$file matches key structure - OK"
+            fi
+          done
+
+          if [ "$ERRORS" -ne 0 ]; then
+            echo "Error : One or more translation files failed validation."
+            exit 1
+          fi
