@@ -18,6 +18,17 @@ We will review and merge valid contributions regularly. The updated translations
 - Try to follow the tone and style used in other translations.
 - Do not rename existing keys unless absolutely necessary.
 
+## ⚙️ How to test
+
+- Open [gge-tracker.com](https://gge-tracker.com)
+- Open your browser's Developer Tools (usually F12 or Ctrl+Shift+I)
+- Go to the 'Console tab' and paste the following code:
+  ```js
+  const lang = { /* your translation content */ };
+  localStorage.setItem('lang_dev', JSON.stringify(lang));
+  ```
+- Reload the page 
+The application will now load your custom translations from localStorage instead of the default files.
 ---
 
 Thank you for contributing!
