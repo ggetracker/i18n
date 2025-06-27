@@ -370,6 +370,7 @@
   "Explication": "Explanation",
   "Données": "Data",
   "Aide": "Help",
+  "Outils": "Tools",
   "Moyenne des variations - Explication": "This chart shows how the alliance members' might changed each day. If the curve goes up, the alliance gained might overall. If it goes down, the alliance lost might.",
   "Activité journalière - Explication": "This chart shows internal activity: even if a player's total might didn't change, they could have gained and lost a lot during the day. The higher the curve, the more active members were (gaining or losing might) — even if the final total stayed the same.",
   "loading-confirmation": "Please note that the display of all alliances can be very long and slow down your browser. Continue?",

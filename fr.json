@@ -370,6 +370,7 @@
   "Explication": "Explication",
   "Données": "Données",
   "Aide": "Aide",
+  "Outils": "Outils",
   "Moyenne des variations - Explication": "Ce graphique montre l'évolution de la puissance des membres de l'alliance jour par jour. S'il monte, cela veut dire que l'alliance a globalement gagné en puissance. S'il descend, alors l'alliance a globalement perdu de la puissance.",
   "Activité journalière - Explication": "Ce graphique mesure la variance interne de l'alliance : même si un joueur finit la journée sans gain ou perte de puissance, il peut avoir beaucoup monté puis redescendu. Plus la courbe est haute, plus les membres ont été actifs (pertes ou gains de points de puissance dans la journée) — même si cela ne se voit pas toujours dans le total final.",
   "loading-confirmation": "Attention, l'affichage de toutes les alliances peut être très long et ralentir votre navigateur. Continuer ?",
