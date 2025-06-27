@@ -369,8 +369,11 @@
   "Moyenne": "Średnia",
   "Explication": "Wyjaśnienie",
   "Données": "Dane",
+  "Aide": "Pomoc",
   "Moyenne des variations - Explication": "Ten wykres pokazuje, jak moc członków sojuszu zmieniała się każdego dnia. Jeśli krzywa idzie w górę, ogólna moc wzrosła. Jeśli idzie w dół, sojusz stracił moc.",
   "Activité journalière - Explication": "Ten wykres pokazuje wewnętrzną aktywność: nawet jeśli suma punktów gracza nie uległa zmianie, mógł on wiele zyskać i stracić w ciągu dnia. Im wyższa krzywa, tym bardziej aktywni byli członkowie (zyskujący lub tracący punkty mocy) — nawet jeśli ostateczna suma punktów pozostała taka sama.",
   "loading-confirmation": "Należy pamiętać, że wyświetlanie wszystkich sojuszy może być bardzo długie i spowolnić przeglądarkę. Kontynuować?",
-  "server-request-about": "* Witryna jest obecnie w fazie rozwoju. Nie wszystkie serwery Goodgame Empire są jeszcze dostępne. Jeśli chcesz dodać serwer, nie wahaj się poprosić o niego w zakładce „O nas”"
+  "server-request-about": "* Witryna jest obecnie w fazie rozwoju. Nie wszystkie serwery Goodgame Empire są jeszcze dostępne. Jeśli chcesz dodać serwer, nie wahaj się poprosić o niego w zakładce „O nas”",
+  "server-not-available": "Uwaga, serwer {{server}} nie jest jeszcze dostępny na tej stronie. Aby skorzystać z tej funkcji, wybierz inny serwer.",
+  "help-dungeon": "Aby uzyskać lepsze wrażenia, zaleca się wpisanie swojego pseudonimu w polu wyszukiwania, aby uzyskać spersonalizowane czasy odnowienia."
 }
