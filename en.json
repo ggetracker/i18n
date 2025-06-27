@@ -375,6 +375,6 @@
   "Activité journalière - Explication": "This chart shows internal activity: even if a player's total might didn't change, they could have gained and lost a lot during the day. The higher the curve, the more active members were (gaining or losing might) — even if the final total stayed the same.",
   "loading-confirmation": "Please note that the display of all alliances can be very long and slow down your browser. Continue?",
   "server-request-about": "* The site is currently in the development phase. Not all goodgame empire servers are available yet. If you want to add a server, do not hesitate to request it from the 'About' tab",
-  "server-not-available": "Attention, the server {{server}} is not yet available on this page. To use this feature, please choose another server.",
+  "server-not-available": "Please note that the server {{server}} is not yet available on this page. To use this feature, please choose another server.",
   "help-dungeon": "For a better experience, it is recommended to enter your pseudonym in the search field to get your personalized cooldowns."
 }
