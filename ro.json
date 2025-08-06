@@ -7,8 +7,10 @@
     "Statistiques": "Statistică server",
     "Changements de nom": "Schimbări de nume",
     "A propos": "Despre",
-    "Événements": "Evenimente"
+    "Événements": "Evenimente",
+    "Forteresses": "Fortărețe"
   },
+  "Événements": "Evenimente",
   "Lundi": "Luni",
   "Mardi": "Marți",
   "Mercredi": "Miercuri",
@@ -262,6 +264,7 @@
   "Pillage moyen": "Pradă medie",
   "Niveau moyen": "Nivel mediu",
   "Classement": "Clasament",
+  "Classement mondial": "Clasament global",
   "A quitté l'alliance": "A părăsit alianța",
   "Actif": "Activ",
   "Joueur inactif": "Jucător inactiv",
@@ -293,6 +296,7 @@
   "Conquête d'un chateau principal": "Cucerirea unui castel principal",
   "Chateau principal supprimé": "Castel principal șters",
   "Chateau principal abandonné": "Castel principal abandonat",
+  "Nombre de chateaux": "Număr de castele",
   "Avant-poste": "Avanpost",
   "Conquête d'un avant-poste": "Cucerire avanpost",
   "Avant-poste abandonné": "Avanpost abandonat",
@@ -411,5 +415,16 @@
   "loading-confirmation": "Te rugăm să reții că afișarea tuturor alianțelor poate dura foarte mult și încetini browserul tău. Continui?",
   "server-request-about": "* Site-ul este în prezent în fază de dezvoltare. Nu toate serverele goodgame empire sunt disponibile încă. Dacă vrei să adaugi un server, nu ezita să îl soliciti din tab-ul 'Despre'",
   "server-not-available": "Te rugăm să reții că serverul {{server}} nu este încă disponibil pe această pagină. Pentru a folosi această funcție, te rugăm să alegi alt server.",
-  "help-dungeon": "Pentru o experiență mai bună, se recomandă să introduci numele tău în câmpul de căutare pentru a obține cooldown-urile tale personalizate."
+  "help-dungeon": "Pentru o experiență mai bună, se recomandă să introduci numele tău în câmpul de căutare pentru a obține cooldown-urile tale personalizate.",
+  "about": {
+    "title": "Despre",
+    "release-notes": "Note de lansare",
+    "intro-1": "gge-tracker.com este un website dezvoltat cu {{heart}} de un jucător, pentru jucători.",
+    "intro-2": "Acest proiect este complet independent și non-profit. Scopul său este de a oferi membrilor comunității Goodgame Empire un instrument pentru a urmări evoluția statisticilor jucătorilor și alianțelor.",
+    "intro-3": "Nu există nicio afiliere sau parteneriat între gge-tracker.com și Goodgame Studios. Toate datele sunt colectate în mod public și puse la dispoziție gratuit.",
+    "intro-4": "Acest site evoluează în mod regulat datorită feedback-ului și sugestiilor jucătorilor. Nu ezitați să vă împărtășiți ideile, să oferiți ajutor (dezvoltare, traducere etc.) sau să raportați eventualele probleme/erori prin intermediul următoarelor contacte:",
+    "host": "Site-ul gge-tracker.com este găzduit de OVH, o societate pe acțiuni simplificată franceză cu un capital social de 10.174.560 de euro. Sediul social: 2 rue Kellermann, 59100 Roubaix, Franța. RCS Lille Métropole: B 424 761 419 | Număr TVA: FR 23 424 761 419.",
+    "contributors-title": "Contribuitori",
+    "contributors-thanks": "Ei au contribuit la proiect într-un fel sau altul, mulțumim lor!"
+  }
 }

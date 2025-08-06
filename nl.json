@@ -7,8 +7,10 @@
     "Statistiques": "Server statistieken",
     "Changements de nom": "naamswijzigingen",
     "A propos": "Over",
-    "Événements": "Events"
+    "Événements": "Events",
+    "Forteresses": "Forten"
   },
+  "Événements": "Events",
   "Lundi": "Maandag",
   "Mardi": "Dinsdag",
   "Mercredi": "Woensdag",
@@ -262,6 +264,7 @@
   "Pillage moyen": "Gemiddelde buit",
   "Niveau moyen": "Gemiddelde level",
   "Classement": "Klassement",
+  "Classement mondial": "Wereldklassement",
   "A quitté l'alliance": "Uit het BG gestapt",
   "Actif": "Actief",
   "Joueur inactif": "Inactieve speler",
@@ -293,6 +296,7 @@
   "Conquête d'un chateau principal": "Strijd om het hoofdkasteel",
   "Chateau principal supprimé": "Hoofdkasteel verwijderd",
   "Chateau principal abandonné": "Hoofdkasteel opgegeven",
+  "Nombre de chateaux": "Aantal kastelen",
   "Avant-poste": "Buitenpost",
   "Conquête d'un avant-poste": "Verovering van een buitenpost",
   "Avant-poste abandonné": "Buitenpost opgegeven",
@@ -411,5 +415,16 @@
   "loading-confirmation": "Let op! Het laden van alle BGs kan lang duren, en je browser vertragen. Door gaan?",
   "server-request-about": "* Deze website is op dit moment nog in ontwikkelingsfase. Niet alle GoodGame Empire servers zijn nog beschikbaar.",
   "server-not-available": "Let op, de server {{server}} is nog niet beschikbaar op deze pagina. Om deze functie te gebruiken, kies een andere server.",
-  "help-dungeon": "Voor een betere ervaring, wordt aangeraden om je naam in te vullen in het zoekveld om je persoonlijke cooldowns te krijgen."
+  "help-dungeon": "Voor een betere ervaring, wordt aangeraden om je naam in te vullen in het zoekveld om je persoonlijke cooldowns te krijgen.",
+  "about": {
+    "title": "Over",
+    "release-notes": "Release-opmerkingen",
+    "intro-1": "gge-tracker.com is een communitywebsite die met {{heart}} door een speler voor andere spelers is ontwikkeld.",
+    "intro-2": "Dit project is volledig onafhankelijk en zonder winstoogmerk. Het heeft als doel leden van de Goodgame Empire-gemeenschap een hulpmiddel te bieden om de evolutie van spelers- en alliantiestatistieken te volgen.",
+    "intro-3": "Er bestaat geen enkele band of partnerschap tussen gge-tracker.com en Goodgame Studios. Alle gegevens worden op openbare wijze verzameld en gratis ter beschikking gesteld.",
+    "intro-4": "Deze site evolueert regelmatig dankzij feedback en suggesties van spelers. Aarzel niet om je ideeën te delen, hulp aan te bieden (ontwikkeling, vertaling, …) of eventuele problemen/bugs te melden via de volgende contactmogelijkheden:",
+    "host": "De site gge-tracker.com wordt gehost door OVH, een Franse vereenvoudigde naamloze vennootschap met een kapitaal van 10.174.560 euro. Maatschappelijke zetel: 2 rue Kellermann, 59100 Roubaix, Frankrijk. RCS Lille Métropole: B 424 761 419 | Intracommunautair btw-nummer: FR 23 424 761 419.",
+    "contributors-title": "Bijdragers",
+    "contributors-thanks": "Zij hebben op de een of andere manier bijgedragen aan het project, dank aan hen!"
+  }
 }

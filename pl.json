@@ -7,8 +7,10 @@
     "Statistiques": "Statystyki serwera",
     "Changements de nom": "Zmiany nazw",
     "A propos": "O nas",
-    "Événements": "Wydarzenia"
+    "Événements": "Wydarzenia",
+    "Forteresses": "Fortecach"
   },
+  "Événements": "Wydarzenia",
   "Lundi": "Poniedziałek",
   "Mardi": "Wtorek",
   "Mercredi": "Środa",
@@ -262,6 +264,7 @@
   "Pillage moyen": "Średnie łupy",
   "Niveau moyen": "Średni poziom",
   "Classement": "Ranking",
+  "Classement mondial": "Ranking global",
   "A quitté l'alliance": "Opuścił sojusz",
   "Actif": "Aktywny",
   "Joueur inactif": "Nieaktywny gracz",
@@ -293,6 +296,7 @@
   "Conquête d'un chateau principal": "Podbój zamku głównego",
   "Chateau principal supprimé": "Zamek główny usunięty",
   "Chateau principal abandonné": "Zamek główny porzucony",
+  "Nombre de chateaux": "Liczba zamków",
   "Avant-poste": "Posterunek",
   "Conquête d'un avant-poste": "Podbój posterunku",
   "Avant-poste abandonné": "Posterunek porzucony",
@@ -411,5 +415,16 @@
   "loading-confirmation": "Należy pamiętać, że wyświetlanie wszystkich sojuszy może być bardzo długie i spowolnić przeglądarkę. Kontynuować?",
   "server-request-about": "* Witryna jest obecnie w fazie rozwoju. Nie wszystkie serwery Goodgame Empire są jeszcze dostępne. Jeśli chcesz dodać serwer, nie wahaj się poprosić o niego w zakładce „O nas”",
   "server-not-available": "Uwaga, serwer {{server}} nie jest jeszcze dostępny na tej stronie. Aby skorzystać z tej funkcji, wybierz inny serwer.",
-  "help-dungeon": "Aby uzyskać lepsze wrażenia, zaleca się wpisanie swojego pseudonimu w polu wyszukiwania, aby uzyskać spersonalizowane czasy odnowienia."
+  "help-dungeon": "Aby uzyskać lepsze wrażenia, zaleca się wpisanie swojego pseudonimu w polu wyszukiwania, aby uzyskać spersonalizowane czasy odnowienia.",
+  "about": {
+    "title": "O nas",
+    "release-notes": "Informacje o wersji",
+    "intro-1": "gge-tracker.com to strona internetowa społecznościowa stworzona z {{heart}} przez gracza, dla graczy.",
+    "intro-2": "Ten projekt jest całkowicie niezależny i non-profit. Ma na celu zapewnienie członkom społeczności Goodgame Empire narzędzia do śledzenia ewolucji statystyk graczy i sojuszy.",
+    "intro-3": "Nie istnieje żadne powiązanie ani partnerstwo między gge-tracker.com a Goodgame Studios. Wszystkie dane są zbierane publicznie i udostępniane za darmo.",
+    "intro-4": "Ta strona jest regularnie aktualizowana dzięki opiniom i sugestiom graczy. Zachęcamy do dzielenia się swoimi pomysłami, oferowania pomocy (rozwój, tłumaczenie, ...) lub zgłaszania wszelkich problemów lub błędów za pośrednictwem następujących kontaktów:",
+    "host": "Strona gge-tracker.com jest hostowana przez OVH, francuską spółkę akcyjną z uproszczoną strukturą prawną o kapitale zakładowym wynoszącym 10 174 560 euro. Siedziba główna: 2 rue Kellermann, 59100 Roubaix, Francja. RCS Lille Métropole: B 424 761 419 | Numer VAT: FR 23 424 761 419.",
+    "contributors-title": "Współtwórcy",
+    "contributors-thanks": "Oni wnieśli wkład w projekt w taki czy inny sposób, dziękujemy im!"
+  }
 }

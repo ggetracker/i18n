@@ -7,8 +7,10 @@
     "Statistiques": "Server statistics",
     "Changements de nom": "Name changes",
     "A propos": "About",
-    "Événements": "Events"
+    "Événements": "Events",
+    "Forteresses": "Fortresses"
   },
+  "Événements": "Events",
   "Lundi": "Monday",
   "Mardi": "Tuesday",
   "Mercredi": "Wednesday",
@@ -262,6 +264,7 @@
   "Pillage moyen": "Average looting",
   "Niveau moyen": "Average level",
   "Classement": "Ranking",
+  "Classement mondial": "Global ranking",
   "A quitté l'alliance": "Left the alliance",
   "Actif": "Active",
   "Joueur inactif": "Inactive player",
@@ -293,6 +296,7 @@
   "Conquête d'un chateau principal": "Conquest of a main castle",
   "Chateau principal supprimé": "Main castle deleted",
   "Chateau principal abandonné": "Main castle abandoned",
+  "Nombre de chateaux": "Number of castles",
   "Avant-poste": "Outpost",
   "Conquête d'un avant-poste": "Conquest of an outpost",
   "Avant-poste abandonné": "Outpost abandoned",
@@ -411,5 +415,16 @@
   "loading-confirmation": "Please note that the display of all alliances can be very long and slow down your browser. Continue?",
   "server-request-about": "* The site is currently in the development phase. Not all goodgame empire servers are available yet. If you want to add a server, do not hesitate to request it from the 'About' tab",
   "server-not-available": "Please note that the server {{server}} is not yet available on this page. To use this feature, please choose another server.",
-  "help-dungeon": "For a better experience, it is recommended to enter your pseudonym in the search field to get your personalized cooldowns."
+  "help-dungeon": "For a better experience, it is recommended to enter your pseudonym in the search field to get your personalized cooldowns.",
+  "about": {
+    "title": "About",
+    "release-notes": "Release notes",
+    "intro-1": "gge-tracker.com is a community-driven website developed with {{heart}} by a player, for players.",
+    "intro-2": "This project is completely independent and non-profit. Its goal is to provide members of the Goodgame Empire community with a tool to track the evolution of player and alliance statistics.",
+    "intro-3": "There is no affiliation or partnership between gge-tracker.com and Goodgame Studios. All data is collected publicly and made available free of charge.",
+    "intro-4": "This site evolves regularly based on player feedback and suggestions. Feel free to share your ideas, offer your help (development, translation, ...) or report any issues/bugs via the following contacts:",
+    "host": "The gge-tracker.com website is hosted by OVH, a French simplified joint-stock company with a capital of 10,174,560 euros. Registered office: 2 rue Kellermann, 59100 Roubaix, France. RCS Lille Métropole: B 424 761 419 | EU VAT: FR 23 424 761 419.",
+    "contributors-title": "Contributors",
+    "contributors-thanks": "They contributed to the project in one way or another, thank you to them!"
+  }
 }
