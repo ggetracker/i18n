@@ -454,7 +454,7 @@
   "Activité journalière - Explication": "Deze grafiek toont interne activiteit: zelfs als de totale macht van een speler niet verandert, kan hij veel machtspunten gewonnen en verloren hebben. Hoe hoger de curve, hoe actiever de leden waren (winsten of verliezen van machtspunten) — ook als dat niet zichtbaar is in het eindresultaat.",
   "loading-confirmation": "Let op! Het laden van alle BGs kan lang duren, en je browser vertragen. Door gaan?",
   "server-request-about": "* Deze website is op dit moment nog in ontwikkelingsfase. Niet alle GoodGame Empire servers zijn nog beschikbaar.",
-  "server-not-available": "Let op, de server {{server}} is nog niet beschikbaar op deze pagina. Om deze functie te gebruiken, kies een andere server.",
+  "server-not-available": "Let op, deze functie is niet beschikbaar voor de server {{server}}. Voor meer informatie, ga naar de Discord.",
   "help-dungeon": "Voor een betere ervaring, wordt aangeraden om je naam in te vullen in het zoekveld om je persoonlijke cooldowns te krijgen.",
   "about": {
     "title": "Over",

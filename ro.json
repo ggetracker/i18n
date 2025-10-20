@@ -454,7 +454,7 @@
   "Activité journalière - Explication": "Acest grafic arată activitatea internă: chiar dacă puterea totală a unui jucător nu s-a schimbat, ei ar fi putut câștiga și pierde mult timp de o zi. Cu cât curba este mai mare, cu atât membrii au fost mai activi (câștigând sau pierzând putere) - chiar dacă totalul final a rămas același.",
   "loading-confirmation": "Te rugăm să reții că afișarea tuturor alianțelor poate dura foarte mult și încetini browserul tău. Continui?",
   "server-request-about": "* Site-ul este în prezent în fază de dezvoltare. Nu toate serverele goodgame empire sunt disponibile încă. Dacă vrei să adaugi un server, nu ezita să îl soliciti din tab-ul 'Despre'",
-  "server-not-available": "Te rugăm să reții că serverul {{server}} nu este încă disponibil pe această pagină. Pentru a folosi această funcție, te rugăm să alegi alt server.",
+  "server-not-available": "Atenție, această funcționalitate nu este disponibilă pentru serverul {{server}}. Pentru mai multe informații, accesează Discord.",
   "help-dungeon": "Pentru o experiență mai bună, se recomandă să introduci numele tău în câmpul de căutare pentru a obține cooldown-urile tale personalizate.",
   "about": {
     "title": "Despre",

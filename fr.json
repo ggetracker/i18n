@@ -454,7 +454,7 @@
   "Activité journalière - Explication": "Ce graphique mesure la variance interne de l'alliance : même si un joueur finit la journée sans gain ou perte de puissance, il peut avoir beaucoup monté puis redescendu. Plus la courbe est haute, plus les membres ont été actifs (pertes ou gains de points de puissance dans la journée) — même si cela ne se voit pas toujours dans le total final.",
   "loading-confirmation": "Attention, l'affichage de toutes les alliances peut être très long et ralentir votre navigateur. Continuer ?",
   "server-request-about": "* Le site est actuellement en phase de développement. Tous les serveurs ne sont pas encore disponibles. Si vous souhaitez ajouter un serveur, n'hésitez pas à demander l'ajout de celui-ci depuis l'onglet 'À propos'",
-  "server-not-available": "Attention, le serveur {{server}} n'est pas encore disponible sur cette page. Pour utiliser cette fonctionnalité, veuillez choisir un autre serveur.",
+  "server-not-available": "Attention, cette fonctionnalité n'est pas disponible pour le serveur {{server}}. Pour plus d'informations, rendez-vous sur le Discord.",
   "help-dungeon": "Pour une meilleur expérience, il est recommandé d'insérer votre pseudonyme dans le champ de recherche afin d'obtenir vos cooldowns personnalisés.",
   "about": {
     "title": "À propos",

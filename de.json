@@ -454,7 +454,7 @@
   "Activité journalière - Explication": "Dieses Diagramm zeigt interne Aktivität: Auch wenn die Gesamtmacht gleich blieb, können Mitglieder viel gewonnen und verloren haben. Je höher die Linie, desto aktiver die Mitglieder.",
   "loading-confirmation": "Die Anzeige aller Allianzen kann sehr lange dauern und deinen Browser verlangsamen. Fortfahren?",
   "server-request-about": "* Die Seite befindet sich in Entwicklung. Noch sind nicht alle GGE-Server verfügbar. Möchtest du einen Server hinzufügen, schreib uns im Tab „Über“.",
-  "server-not-available": "Der Server {{server}} ist hier noch nicht verfügbar. Bitte wähle einen anderen Server.",
+  "server-not-available": "Achtung, diese Funktion ist für den Server {{server}} nicht verfügbar. Für weitere Informationen besuche bitte den Discord.",
   "help-dungeon": "Für ein besseres Erlebnis gib deinen Spielernamen in das Suchfeld ein, um persönliche Cooldowns zu sehen.",
   "about": {
     "title": "Über uns",
