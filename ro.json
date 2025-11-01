@@ -9,7 +9,8 @@
     "A propos": "Despre",
     "Événements": "Evenimente",
     "Forteresses": "Fortărețe",
-    "Châteaux": "Castele"
+    "Châteaux": "Castele",
+    "Le Grand Tournoi": "Marele Turneu"
   },
   "Résolution de la carte": "Rezoluția hărții",
   "Voir les châteaux": "Vezi castelele",
@@ -473,5 +474,14 @@
     "host": "Site-ul gge-tracker.com este găzduit de OVH, o societate pe acțiuni simplificată franceză cu un capital social de 10.174.560 de euro. Sediul social: 2 rue Kellermann, 59100 Roubaix, Franța. RCS Lille Métropole: B 424 761 419 | Număr TVA: FR 23 424 761 419.",
     "contributors-title": "Contribuitori",
     "contributors-thanks": "Ei au contribuit la proiect într-un fel sau altul, mulțumim lor!"
-  }
+  },
+  "Le Grand Tournoi": "Marele Turneu",
+  "Division": "Divizie",
+  "Sous-division": "Subdiviziune",
+  "Classement dans la sous-division": "Clasament în subdiviziune",
+  "ame_division_name_3": "Bronz",
+  "ame_division_name_1": "Cupru",
+  "ame_division_name_2": "Sticlă",
+  "ame_division_name_5": "Aur",
+  "ame_division_name_4": "Argint"
 }

@@ -9,7 +9,8 @@
     "A propos": "O nas",
     "Événements": "Wydarzenia",
     "Forteresses": "Fortecach",
-    "Châteaux": "Zamków"
+    "Châteaux": "Zamków",
+    "Le Grand Tournoi": "Wielki Turniej"
   },
   "Résolution de la carte": "Rozdzielczość mapy",
   "Voir les châteaux": "Zobacz zamki",
@@ -473,5 +474,14 @@
     "host": "Strona gge-tracker.com jest hostowana przez OVH, francuską spółkę akcyjną z uproszczoną strukturą prawną o kapitale zakładowym wynoszącym 10 174 560 euro. Siedziba główna: 2 rue Kellermann, 59100 Roubaix, Francja. RCS Lille Métropole: B 424 761 419 | Numer VAT: FR 23 424 761 419.",
     "contributors-title": "Współtwórcy",
     "contributors-thanks": "Oni wnieśli wkład w projekt w taki czy inny sposób, dziękujemy im!"
-  }
+  },
+  "Le Grand Tournoi": "Wielki Turniej",
+  "Division": "Dywizja",
+  "Sous-division": "Podział",
+  "Classement dans la sous-division": "Ranking w podziale",
+  "ame_division_name_3": "Brąz",
+  "ame_division_name_1": "Miedź",
+  "ame_division_name_2": "Szkło",
+  "ame_division_name_5": "Złoto",
+  "ame_division_name_4": "Srebro"
 }

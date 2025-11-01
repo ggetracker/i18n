@@ -9,7 +9,8 @@
     "A propos": "Over",
     "Événements": "Events",
     "Forteresses": "Forten",
-    "Châteaux": "Kastelen"
+    "Châteaux": "Kastelen",
+    "Le Grand Tournoi": "Het Grote Toernooi"
   },
   "Résolution de la carte": "Kaart resolutie",
   "Voir les châteaux": "Zie kastelen",
@@ -473,5 +474,14 @@
     "host": "De site gge-tracker.com wordt gehost door OVH, een Franse vereenvoudigde naamloze vennootschap met een kapitaal van 10.174.560 euro. Maatschappelijke zetel: 2 rue Kellermann, 59100 Roubaix, Frankrijk. RCS Lille Métropole: B 424 761 419 | Intracommunautair btw-nummer: FR 23 424 761 419.",
     "contributors-title": "Bijdragers",
     "contributors-thanks": "Zij hebben op de een of andere manier bijgedragen aan het project, dank aan hen!"
-  }
+  },
+  "Le Grand Tournoi": "Het Grote Toernooi",
+  "Division": "Divisie",
+  "Sous-division": "Subdivisie",
+  "Classement dans la sous-division": "Rang in de subdivisie",
+  "ame_division_name_3": "Brons",
+  "ame_division_name_1": "Koper",
+  "ame_division_name_2": "Glas",
+  "ame_division_name_5": "Goud",
+  "ame_division_name_4": "Zilver"
 }

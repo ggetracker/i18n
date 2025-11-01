@@ -9,7 +9,8 @@
     "A propos": "Über",
     "Événements": "Events",
     "Forteresses": "Festungen",
-    "Châteaux": "Hauptburgen"
+    "Châteaux": "Hauptburgen",
+    "Le Grand Tournoi": "Das große Turnier"
   },
   "Résolution de la carte": "Kartengittergröße",
   "Voir les châteaux": "Schlösser ansehen",
@@ -473,5 +474,14 @@
     "host": "gge-tracker.com wird von OVH gehostet, einer französischen vereinfachten Aktiengesellschaft mit einem Kapital von 10.174.560 Euro. Hauptsitz: 2 rue Kellermann, 59100 Roubaix, Frankreich. Handelsregister Lille Métropole: B 424 761 419 | EU-Umsatzsteuer-ID: FR 23 424 761 419.",
     "contributors-title": "Mitwirkende",
     "contributors-thanks": "Sie haben auf unterschiedliche Weise zum Projekt beigetragen - vielen Dank an alle!"
-  }
+  },
+  "Le Grand Tournoi": "Das große Turnier",
+  "Division": "Division",
+  "Sous-division": "Unterteilung",
+  "Classement dans la sous-division": "Rang in der Unterteilung",
+  "ame_division_name_3": "Bronze",
+  "ame_division_name_1": "Kupfer",
+  "ame_division_name_2": "Glas",
+  "ame_division_name_5": "Gold",
+  "ame_division_name_4": "Silber"
 }
