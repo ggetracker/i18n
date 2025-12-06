@@ -12,6 +12,16 @@
     "Châteaux": "Castles",
     "Le Grand Tournoi": "Grand Tournament"
   },
+  "Scores finaux": "Final scores",
+  "Serveur actuel": "Current server",
+  "Rechercher et analyser": "Search and analyze",
+  "Outils tactiques": "Tactical tools",
+  "Scores et classements": "Scores and rankings",
+  "Analytique": "Analytics",
+  "Joueur": "Player",
+  "Temps réel": "Real-time",
+  "Par heure": "Per hour",
+  "Sélectionner une date": "Select a date",
   "Résolution de la carte": "Map resolution",
   "Voir les châteaux": "See castles",
   "Forteresses": "Fortresses",
@@ -74,6 +84,7 @@
   "Cartographie": "Cartography",
   "Statistiques globales": "Global statistics",
   "A propos": "About",
+  "Changements de nom": "Name changes",
   "Changements de noms": "Name changes",
   "Noms de joueurs": "Player names",
   "Noms d'alliances": "Alliance names",
@@ -414,7 +425,7 @@
   "Baisses de puissance depuis 24 heures": "Might losses in the last 24 hours",
   "Baisses de puissance depuis 7 jours": "Might losses over the last 7 days",
   "Puissance par heure": "Might per hour",
-  "Progression de la puissance totale de l'alliance par heure": "Total alliance might growth per hour",
+  "Progression de la puissance totale de l'alliance par heure": "Evolution of the total might of the alliance per hour",
   "Moyenne des variations": "Average changes",
   "Moyenne des variations de puissance par jour": "Average daily might change",
   "Activité journalière": "Daily activity",
@@ -475,7 +486,7 @@
     "host": "The gge-tracker.com website is hosted by OVH, a French simplified joint-stock company with a capital of 10,174,560 euros. Registered office: 2 rue Kellermann, 59100 Roubaix, France. RCS Lille Métropole: B 424 761 419 | EU VAT: FR 23 424 761 419.",
     "contact-legal": "For any legal questions, please contact:",
     "contributors-title": "Contributors",
-    "contributors-thanks": "They contributed to the project in one way or another, thank you to them!"
+    "contributors-thanks": "They contributed to the project in one way or another, thanks to them!"
   },
   "Le Grand Tournoi": "Grand Tournament",
   "Division": "Division",
@@ -485,5 +496,6 @@
   "ame_division_name_1": "Copper",
   "ame_division_name_2": "Glass",
   "ame_division_name_5": "Gold",
-  "ame_division_name_4": "Silver"
+  "ame_division_name_4": "Silver",
+  "ms": "ms"
 }

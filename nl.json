@@ -12,6 +12,16 @@
     "Châteaux": "Kastelen",
     "Le Grand Tournoi": "Het Grote Toernooi"
   },
+  "Scores finaux": "Eindscores",
+  "Serveur actuel": "Huidige server",
+  "Rechercher et analyser": "Zoek en analyseer",
+  "Outils tactiques": "Tactische tools",
+  "Scores et classements": "Scores en ranglijsten",
+  "Analytique": "Analyse",
+  "Joueur": "Speler",
+  "Temps réel": "Realtime",
+  "Par heure": "Per uur",
+  "Sélectionner une date": "Selecteer een datum",
   "Résolution de la carte": "Kaart resolutie",
   "Voir les châteaux": "Zie kastelen",
   "Forteresses": "Forten",
@@ -74,6 +84,7 @@
   "Cartographie": "Kaart",
   "Statistiques globales": "Globale statistieken",
   "A propos": "Over",
+  "Changements de nom": "Naamswijzigingen",
   "Changements de noms": "Naamswijzigingen",
   "Noms de joueurs": "Speler namen",
   "Noms d'alliances": "BG namen",
@@ -485,5 +496,6 @@
   "ame_division_name_1": "Koper",
   "ame_division_name_2": "Glas",
   "ame_division_name_5": "Goud",
-  "ame_division_name_4": "Zilver"
+  "ame_division_name_4": "Zilver",
+  "ms": "ms"
 }

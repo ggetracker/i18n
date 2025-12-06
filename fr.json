@@ -12,6 +12,16 @@
     "Châteaux": "Châteaux",
     "Le Grand Tournoi": "Le Grand Tournoi"
   },
+  "Scores finaux": "Scores finaux",
+  "Serveur actuel": "Serveur actuel",
+  "Rechercher et analyser": "Rechercher et analyser",
+  "Outils tactiques": "Outils tactiques",
+  "Scores et classements": "Scores et classements",
+  "Analytique": "Analytique",
+  "Joueur": "Joueur",
+  "Temps réel": "Temps réel",
+  "Par heure": "Par heure",
+  "Sélectionner une date": "Sélectionner une date",
   "Résolution de la carte": "Résolution de la carte",
   "Voir les châteaux": "Voir les châteaux",
   "Forteresses": "Forteresses",
@@ -74,6 +84,7 @@
   "Cartographie": "Cartographie",
   "Statistiques globales": "Statistiques globales",
   "A propos": "À propos",
+  "Changements de nom": "Changements de nom",
   "Changements de noms": "Changements de noms",
   "Noms de joueurs": "Noms de joueurs",
   "Noms d'alliances": "Noms d'alliances",
@@ -485,6 +496,6 @@
   "ame_division_name_1": "Cuivre",
   "ame_division_name_2": "Verre",
   "ame_division_name_5": "Or",
-  "ame_division_name_4": "Argent"
-
+  "ame_division_name_4": "Argent",
+  "ms": "ms"
 }

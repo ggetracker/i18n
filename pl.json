@@ -12,6 +12,16 @@
     "Châteaux": "Zamków",
     "Le Grand Tournoi": "Wielki Turniej"
   },
+  "Scores finaux": "Wyniki końcowe",
+  "Serveur actuel": "Aktualny serwer",
+  "Rechercher et analyser": "Szukaj i analizuj",
+  "Outils tactiques": "Narzędzia taktyczne",
+  "Scores et classements": "Wyniki i rankingi",
+  "Analytique": "Analityka",
+  "Joueur": "Gracz",
+  "Temps réel": "Czas rzeczywisty",
+  "Par heure": "Na godzinę",
+  "Sélectionner une date": "Wybierz datę",
   "Résolution de la carte": "Rozdzielczość mapy",
   "Voir les châteaux": "Zobacz zamki",
   "Forteresses": "Fortecach",
@@ -74,6 +84,7 @@
   "Cartographie": "Kartografia",
   "Statistiques globales": "Globalne statystyki",
   "A propos": "O nas",
+  "Changements de nom": "Zmiany nazw",
   "Changements de noms": "Zmiany nazw",
   "Noms de joueurs": "Nazwy graczy",
   "Noms d'alliances": "Nazwy sojuszy",
@@ -485,5 +496,6 @@
   "ame_division_name_1": "Miedź",
   "ame_division_name_2": "Szkło",
   "ame_division_name_5": "Złoto",
-  "ame_division_name_4": "Srebro"
+  "ame_division_name_4": "Srebro",
+  "ms": "ms"
 }

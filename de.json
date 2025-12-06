@@ -12,6 +12,16 @@
     "Châteaux": "Hauptburgen",
     "Le Grand Tournoi": "Das große Turnier"
   },
+  "Scores finaux": "Endgültige Punktzahlen",
+  "Serveur actuel": "Aktueller Server",
+  "Rechercher et analyser": "Suchen und analysieren",
+  "Outils tactiques": "Taktische Werkzeuge",
+  "Scores et classements": "Punktzahlen und Ranglisten",
+  "Analytique": "Analytik",
+  "Joueur": "Spieler",
+  "Temps réel": "Echtzeit",
+  "Par heure": "Pro Stunde",
+  "Sélectionner une date": "Datum auswählen",
   "Résolution de la carte": "Kartengittergröße",
   "Voir les châteaux": "Schlösser ansehen",
   "Châteaux": "Hauptburgen",
@@ -74,6 +84,7 @@
   "Cartographie": "Kartographie",
   "Statistiques globales": "Globale Statistiken",
   "A propos": "Über",
+  "Changements de nom": "Namensänderungen",
   "Changements de noms": "Namensänderungen",
   "Noms de joueurs": "Spielernamen",
   "Noms d'alliances": "Allianznamen",
@@ -485,5 +496,6 @@
   "ame_division_name_1": "Kupfer",
   "ame_division_name_2": "Glas",
   "ame_division_name_5": "Gold",
-  "ame_division_name_4": "Silber"
+  "ame_division_name_4": "Silber",
+  "ms": "ms"
 }

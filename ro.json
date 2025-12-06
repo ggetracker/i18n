@@ -12,6 +12,16 @@
     "Châteaux": "Castele",
     "Le Grand Tournoi": "Marele Turneu"
   },
+  "Scores finaux": "Scoruri finale",
+  "Serveur actuel": "Server curent",
+  "Rechercher et analyser": "Caută și analizează",
+  "Outils tactiques": "Instrumente tactice",
+  "Scores et classements": "Scoruri și clasamente",
+  "Analytique": "Analitică",
+  "Joueur": "Jucător",
+  "Temps réel": "Timp real",
+  "Par heure": "Pe oră",
+  "Sélectionner une date": "Selectează o dată",
   "Résolution de la carte": "Rezoluția hărții",
   "Voir les châteaux": "Vezi castelele",
   "Forteresses": "Fortărețe",
@@ -74,6 +84,7 @@
   "Cartographie": "Cartografie",
   "Statistiques globales": "Statistică globala",
   "A propos": "Despre",
+  "Changements de nom": "Schimbări de nume",
   "Changements de noms": "Schimbări de nume",
   "Noms de joueurs": "Numele jucătorilor",
   "Noms d'alliances": "Numele alianțelor",
@@ -485,5 +496,6 @@
   "ame_division_name_1": "Cupru",
   "ame_division_name_2": "Sticlă",
   "ame_division_name_5": "Aur",
-  "ame_division_name_4": "Argint"
+  "ame_division_name_4": "Argint",
+  "ms": "ms"
 }
