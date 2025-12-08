@@ -493,12 +493,15 @@
 	"seconde": "Sekunde",
 	"secondes": "Sekunden",
 	"secondes_s": "s",
-	"server-not-available": "Achtung, diese Funktion ist für den Server {{server}} nicht verfügbar. Für weitere Informationen besuche bitte den Discord.",
+	"server-not-available": "Entschuldigung, diese Funktion ist für den Server {{server}} nicht verfügbar. Für weitere Informationen besuche bitte den Discord.",
 	"server-request-about": "* Die Seite befindet sich in Entwicklung. Noch sind nicht alle GGE-Server verfügbar. Möchtest du einen Server hinzufügen, schreib uns im Tab „Über“.",
 	"Écart type des scores (variabilité)": "Standardabweichung (Punktzahl-Streuung)",
 	"Événement courant": "Aktuelles Event",
 	"Événement du 0 au 0": "Event von {{start}} bis {{end}}",
 	"Événement en cours": "Aktuelles Event",
 	"Événement indisponible": "Event nicht verfügbar",
-	"Événements": "Events"
+	"Événements": "Events",
+	"level_over_time": "Level über Zeit",
+	"rank_over_time": "Rang über Zeit",
+	"score_over_time": "Punktzahl über Zeit"
 }

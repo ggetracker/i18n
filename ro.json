@@ -493,12 +493,15 @@
 	"seconde": "secundă",
 	"secondes": "secunde",
 	"secondes_s": "s",
-	"server-not-available": "Atenție, această funcționalitate nu este disponibilă pentru serverul {{server}}. Pentru mai multe informații, accesează Discord.",
+	"server-not-available": "Ne pare rău, această funcționalitate nu este disponibilă pentru serverul {{server}}. Pentru mai multe informații, accesează Discord.",
 	"server-request-about": "* Site-ul este în prezent în fază de dezvoltare. Nu toate serverele goodgame empire sunt disponibile încă. Dacă vrei să adaugi un server, nu ezita să îl soliciti din tab-ul 'Despre'",
 	"Écart type des scores (variabilité)": "Abatere standard a scorurilor (variabilitate)",
 	"Événement courant": "Eveniment curent",
 	"Événement du 0 au 0": "Evenimentul din {{start}} pana in {{end}}",
 	"Événement en cours": "Eveniment curent",
 	"Événement indisponible": "Eveniment indisponibil",
-	"Événements": "Evenimente"
+	"Événements": "Evenimente",
+	"level_over_time": "Nivel peste timp",
+	"rank_over_time": "Clasament peste timp",
+	"score_over_time": "Scor peste timp"
 }

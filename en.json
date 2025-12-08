@@ -493,12 +493,15 @@
 	"seconde": "second",
 	"secondes": "seconds",
 	"secondes_s": "s",
-	"server-not-available": "Warning, this feature is not available for the {{server}} server. For more information, please visit the Discord.",
+	"server-not-available": "Sorry, this feature is not available for the {{server}} server. For more information, please visit the Discord.",
 	"server-request-about": "* The site is currently in the development phase. Not all goodgame empire servers are available yet. If you want to add a server, do not hesitate to request it from the 'About' tab",
 	"Écart type des scores (variabilité)": "Score standard deviation (variability)",
 	"Événement courant": "Current event",
 	"Événement du 0 au 0": "Event from {{start}} to {{end}}",
 	"Événement en cours": "Current event",
 	"Événement indisponible": "Event unavailable",
-	"Événements": "Events"
+	"Événements": "Events",
+	"level_over_time": "Level over time",
+	"rank_over_time": "Rank over time",
+	"score_over_time": "Score over time"
 }

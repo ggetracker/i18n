@@ -493,12 +493,15 @@
 	"seconde": "seconde",
 	"secondes": "seconden",
 	"secondes_s": "s",
-	"server-not-available": "Let op, deze functie is niet beschikbaar voor de server {{server}}. Voor meer informatie, ga naar de Discord.",
+	"server-not-available": "Sorry, deze functie is niet beschikbaar voor de server {{server}}. Voor meer informatie, ga naar de Discord.",
 	"server-request-about": "* Deze website is op dit moment nog in ontwikkelingsfase. Niet alle GoodGame Empire servers zijn nog beschikbaar.",
 	"Écart type des scores (variabilité)": "Score standaarddeviatie (variabiliteit)",
 	"Événement courant": "Huidig event",
 	"Événement du 0 au 0": "Event van {{start}} tot {{end}}",
 	"Événement en cours": "Huidig event",
 	"Événement indisponible": "Onbeschikbaar event",
-	"Événements": "Events"
+	"Événements": "Events",
+	"level_over_time": "Level in de tijd",
+	"rank_over_time": "Rang in de tijd",
+	"score_over_time": "Score in de tijd"
 }

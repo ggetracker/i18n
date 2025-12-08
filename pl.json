@@ -493,12 +493,15 @@
 	"seconde": "sekunda",
 	"secondes": "sekund",
 	"secondes_s": "s",
-	"server-not-available": "Uwaga, ta funkcja nie jest dostępna dla serwera {{server}}. Aby uzyskać więcej informacji, odwiedź Discord.",
+	"server-not-available": "Przepraszam, ta funkcja nie jest dostępna dla serwera {{server}}. Aby uzyskać więcej informacji, odwiedź Discord.",
 	"server-request-about": "* Witryna jest obecnie w fazie rozwoju. Nie wszystkie serwery Goodgame Empire są jeszcze dostępne. Jeśli chcesz dodać serwer, nie wahaj się poprosić o niego w zakładce „O nas”",
 	"Écart type des scores (variabilité)": "Odchylenie standardowe wyników (zmienność)",
 	"Événement courant": "Bieżące wydarzenie",
 	"Événement du 0 au 0": "Wydarzenie od {{start}} do {{end}}",
 	"Événement en cours": "Bieżące wydarzenie",
 	"Événement indisponible": "Wydarzenie niedostępne",
-	"Événements": "Wydarzenia"
+	"Événements": "Wydarzenia",
+	"level_over_time": "Poziom w czasie",
+	"rank_over_time": "Ranga w czasie",
+	"score_over_time": "Wynik w czasie"
 }

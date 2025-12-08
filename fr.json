@@ -493,12 +493,15 @@
 	"seconde": "seconde",
 	"secondes": "secondes",
 	"secondes_s": "s",
-	"server-not-available": "Attention, cette fonctionnalité n'est pas disponible pour le serveur {{server}}. Pour plus d'informations, rendez-vous sur le Discord.",
+	"server-not-available": "Désolé, cette fonctionnalité n'est pas disponible pour le serveur {{server}}. Pour plus d'informations, rendez-vous sur le Discord.",
 	"server-request-about": "* Le site est actuellement en phase de développement. Tous les serveurs ne sont pas encore disponibles. Si vous souhaitez ajouter un serveur, n'hésitez pas à demander l'ajout de celui-ci depuis l'onglet 'À propos'",
 	"Écart type des scores (variabilité)": "Écart type des scores (variabilité)",
 	"Événement courant": "Événement courant",
 	"Événement du 0 au 0": "Événement du {{start}} au {{end}}",
 	"Événement en cours": "Événement en cours",
 	"Événement indisponible": "Événement indisponible",
-	"Événements": "Événements"
+	"Événements": "Événements",
+	"level_over_time": "Niveau au fil du temps",
+	"rank_over_time": "Rang au fil du temps",
+	"score_over_time": "Score au fil du temps"
 }
