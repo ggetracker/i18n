@@ -86,7 +86,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>true</featured>
+			<featured>false</featured>
 			<gge-server-name>Brazil</gge-server-name>
 			<name>BR1</name>
 		</server>
