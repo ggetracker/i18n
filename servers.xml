@@ -26,6 +26,12 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
+			<featured>false</featured>
+			<gge-server-name>Slovakia</gge-server-name>
+			<name>SK1</name>
+		</server>
+		<server>
+			<enabled>true</enabled>
 			<featured>true</featured>
 			<gge-server-name>France</gge-server-name>
 			<name>FR1</name>
@@ -86,7 +92,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Brazil</gge-server-name>
 			<name>BR1</name>
 		</server>
@@ -128,7 +134,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Hungary: 1</gge-server-name>
 			<name>HU1</name>
 		</server>
@@ -140,7 +146,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Spain</gge-server-name>
 			<name>ES1</name>
 		</server>
@@ -171,6 +177,18 @@
 		<server>
 			<enabled>true</enabled>
 			<featured>false</featured>
+			<gge-server-name>Bulgaria</gge-server-name>
+			<name>BG1</name>
+		</server>
+		<server>
+			<enabled>true</enabled>
+			<featured>false</featured>
+			<gge-server-name>Japan</gge-server-name>
+			<name>JP1</name>
+		</server>
+		<server>
+			<enabled>true</enabled>
+			<featured>true</featured>
 			<gge-server-name>Greece</gge-server-name>
 			<name>GR1</name>
 		</server>
@@ -182,7 +200,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Empire Four Kingdoms - Chinese (Traditional)</gge-server-name>
 			<name>E4K_HANT1</name>
 		</server>
@@ -215,6 +233,12 @@
 			<featured>false</featured>
 			<gge-server-name>Empire Four Kingdoms - International 2</gge-server-name>
 			<name>E4K_INT2</name>
+		</server>
+		<server>
+			<enabled>true</enabled>
+			<featured>true</featured>
+			<gge-server-name>Empire Four Kingdoms - China 1</gge-server-name>
+			<name>E4K_CN1</name>
 		</server>
 	</servers>
 </root>
