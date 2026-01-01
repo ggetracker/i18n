@@ -68,7 +68,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>International: 3</gge-server-name>
 			<name>INT3</name>
 		</server>
