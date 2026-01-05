@@ -63,8 +63,14 @@
 		<server>
 			<enabled>true</enabled>
 			<featured>false</featured>
-			<gge-server-name>World</gge-server-name>
+			<gge-server-name>World: 1</gge-server-name>
 			<name>WORLD1</name>
+		</server>
+		<server>
+			<enabled>true</enabled>
+			<featured>false</featured>
+			<gge-server-name>World: 2</gge-server-name>
+			<name>WORLD2</name>
 		</server>
 		<server>
 			<enabled>true</enabled>
