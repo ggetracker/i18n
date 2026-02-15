@@ -80,7 +80,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>United States</gge-server-name>
 			<name>US1</name>
 		</server>
@@ -122,7 +122,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Australia</gge-server-name>
 			<name>AU1</name>
 		</server>
@@ -153,14 +153,26 @@
 		<server>
 			<enabled>true</enabled>
 			<featured>true</featured>
-			<gge-server-name>Spain</gge-server-name>
+			<gge-server-name>Spain: 1</gge-server-name>
 			<name>ES1</name>
+		</server>
+		<server>
+			<enabled>true</enabled>
+			<featured>false</featured>
+			<gge-server-name>Spain: 2</gge-server-name>
+			<name>ES2</name>
 		</server>
 		<server>
 			<enabled>true</enabled>
 			<featured>true</featured>
 			<gge-server-name>Saudi Arabia</gge-server-name>
 			<name>SA1</name>
+		</server>
+		<server>
+			<enabled>true</enabled>
+			<featured>false</featured>
+			<gge-server-name>United Arab Emirates</gge-server-name>
+			<name>AE1</name>
 		</server>
 		<server>
 			<enabled>true</enabled>
@@ -182,7 +194,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Bulgaria</gge-server-name>
 			<name>BG1</name>
 		</server>
@@ -254,7 +266,19 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
+			<featured>true</featured>
+			<gge-server-name>Empire Four Kingdoms - Russia 1</gge-server-name>
+			<name>E4K_RU1</name>
+		</server>
+		<server>
+			<enabled>true</enabled>
 			<featured>false</featured>
+			<gge-server-name>Empire Four Kingdoms - World 2</gge-server-name>
+			<name>E4K_WORLD2</name>
+		</server>
+		<server>
+			<enabled>true</enabled>
+			<featured>true</featured>
 			<gge-server-name>Partner server - 3</gge-server-name>
 			<name>PARTNER_SP3</name>
 		</server>
