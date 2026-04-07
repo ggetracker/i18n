@@ -23,6 +23,17 @@ for file in "$LANG_DIR"/*.json; do
   }
   tmp="$(mktemp)"
 
+  if [[ "$LOCAL_KEY" == *.* ]]; then
+    IFS='.' read -ra path <<< "$LOCAL_KEY"
+    jq --arg value "$value" \
+      --argjson path "$(printf '%s\n' "${path[@]}" | jq -R . | jq -s .)" \
+      'setpath($path; $value)' \
+      "$file" > "$tmp"
+
+    mv "$tmp" "$file"
+    echo "Updated $LOCAL_KEY in $filename with value from GGE $REMOTE_KEY."
+    continue
+  fi
   jq --arg key "$LOCAL_KEY" --arg value "$value" '. + {($key): $value}' "$file" > "$tmp"
   mv "$tmp" "$file"
   echo "Updated $LOCAL_KEY in $filename with value from GGE $REMOTE_KEY."

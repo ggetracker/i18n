@@ -68,7 +68,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>World: 2</gge-server-name>
 			<name>WORLD2</name>
 		</server>
@@ -104,7 +104,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>India</gge-server-name>
 			<name>IN1</name>
 		</server>
@@ -183,6 +183,12 @@
 		<server>
 			<enabled>true</enabled>
 			<featured>false</featured>
+			<gge-server-name>International: 2</gge-server-name>
+			<name>INT2</name>
+		</server>
+		<server>
+			<enabled>true</enabled>
+			<featured>false</featured>
 			<gge-server-name>Russia</gge-server-name>
 			<name>RU1</name>
 		</server>
@@ -224,13 +230,13 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Empire Four Kingdoms - France 1</gge-server-name>
 			<name>E4K_FR1</name>
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Empire Four Kingdoms - Germany 1</gge-server-name>
 			<name>E4K_DE1</name>
 		</server>
@@ -248,7 +254,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Empire Four Kingdoms - International 2</gge-server-name>
 			<name>E4K_INT2</name>
 		</server>

@@ -21,6 +21,10 @@
     <server>LIVE</server>
   </contributor>
   <contributor>
+    <name>Black Lotus</name>
+    <server>DE1</server>
+  </contributor>
+  <contributor>
     <name>Chancli</name>
     <server>ES1</server>
   </contributor>
@@ -53,6 +57,10 @@
     <server>HANT1</server>
   </contributor>
   <contributor>
+    <name>Ritwick Rathore</name>
+    <server>IN1</server>
+  </contributor>
+  <contributor>
     <name>Rubriq</name>
     <server>FR1</server>
   </contributor>
@@ -81,6 +89,10 @@
     <server>TR1</server>
   </contributor>
   <contributor>
+    <name>Vince</name>
+    <server>FR1</server>
+  </contributor>
+  <contributor>
     <name>WillTheBoss</name>
     <server>RO1</server>
   </contributor>
@@ -91,5 +103,9 @@
   <contributor>
     <name>Xenon</name>
     <server>INT3</server>
+  </contributor>
+  <contributor>
+    <name>ZaPor</name>
+    <server>INT2</server>
   </contributor>
 </contributors>
