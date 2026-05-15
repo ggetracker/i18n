@@ -29,6 +29,11 @@
   "Afficher les tours royales": "Arată turnurile regale",
   "Afficher toutes les séries": "Arată toate seriile",
   "Aide": "Ajutor",
+  "Aigues-marines collectées dans les combats JcJ": "Acvamarin colectat din bătăliile PvP",
+  "Aigues-marines collectées dans les forts orageux": "Acvamarin colectat din forturile furtunii",
+  "Aigues-marines collectées dans les îles aux ressources": "Acvamarin colectat din insulele cu resurse",
+  "Aigues-marines dépensées pour des points de cargo": "Acvamarin cheltuit pe puncte de încărcare",
+  "Aigues-marines perdues en combats JcJ": "Acvamarin pierdut în bătălii PvP",
   "Ajouter en favoris": "Adaugă la favorite",
   "Ajouter une alliance": "Adaugă o alianță",
   "Aller au mois précédent": "Du-te la luna precedentă",
@@ -55,6 +60,8 @@
   "Ascendant": "Crescător",
   "Assigné": "Pripisany",
   "Attaquable": "Atacabil",
+  "Attaques cumulées": "Atacuri cumulate",
+  "Attaques par jour": "Atacuri pe zi",
   "Attaqué par": "Atacat de",
   "Attention : Risque de rétrogradation": "Atenție: risc de retrogradare",
   "Aucun": "Niciun",
@@ -338,6 +345,7 @@
   "Points corbeaux de sang cumulés": "Puncte corbi sângeroși cumulate",
   "Points d'invasion de Berimond": "Puncte invazia Berimond",
   "Points de Berimond": "Puncte Berimond",
+  "Points de cargo": "Puncte de încărcare",
   "Points de corbeaux de sang": "Puncte corbi sângerii",
   "Points de gloire": "Puncte glorie",
   "Points de guerre des royaumes": "Puncte război regate",
@@ -443,6 +451,7 @@
   "Top 100": "Top 100",
   "Top 10k": "Top 10k",
   "Top 1k": "Top 1k",
+  "Total d'aigues-marines collectées": "Total acvamarin colectat",
   "Tour royale": "Turn regal",
   "Tour royale abandonnée": "Turn regal abandonat",
   "Tous": "Toate",
@@ -536,7 +545,8 @@
     "Roue des richesses inimaginables": "Roata abundenței inimaginabile",
     "Royaume extérieur": "Ținuturile Exterioare",
     "Statistiques": "Statistică server",
-    "Événements": "Evenimente"
+    "Événements": "Evenimente",
+    "Îles orageuses": "Insulele Furtunii"
   },
   "miliseconds": "ms",
   "minute": "minut",
@@ -704,5 +714,6 @@
   "Événement du 0 au 0": "Evenimentul din {{start}} pana in {{end}}",
   "Événement en cours": "Eveniment curent",
   "Événement indisponible": "Eveniment indisponibil",
-  "Événements": "Evenimente"
+  "Événements": "Evenimente",
+  "Îles orageuses": "Insulele Furtunii"
 }

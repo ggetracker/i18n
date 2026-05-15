@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(jq *)",
+      "Bash(jq '. + { *)",
+      "Bash(mv /tmp/en_tmp.json en.json)",
+      "Bash(mv /tmp/de_tmp.json de.json)",
+      "Bash(mv /tmp/nl_tmp.json nl.json)",
+      "Bash(mv /tmp/pl_tmp.json pl.json)",
+      "Bash(mv /tmp/ro_tmp.json ro.json)",
+      "Bash(./tools/sort-order.sh fr.json en.json de.json nl.json pl.json ro.json)",
+      "Bash(./tools/check.sh *)"
+    ]
+  }
+}

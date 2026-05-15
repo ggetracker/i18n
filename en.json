@@ -29,6 +29,11 @@
   "Afficher les tours royales": "Show royal towers",
   "Afficher toutes les séries": "Show all series",
   "Aide": "Help",
+  "Aigues-marines collectées dans les combats JcJ": "Aquamarine collected from PvP battles",
+  "Aigues-marines collectées dans les forts orageux": "Aquamarine collected from storm forts",
+  "Aigues-marines collectées dans les îles aux ressources": "Aquamarine collected from resource islands",
+  "Aigues-marines dépensées pour des points de cargo": "Aquamarine spent on cargo points",
+  "Aigues-marines perdues en combats JcJ": "Aquamarine lost in PvP battles",
   "Ajouter en favoris": "Add in favorites",
   "Ajouter une alliance": "Add an alliance",
   "Aller au mois précédent": "Go to the previous month",
@@ -55,6 +60,8 @@
   "Ascendant": "Ascending",
   "Assigné": "Assigned",
   "Attaquable": "Attackable",
+  "Attaques cumulées": "Total attacks",
+  "Attaques par jour": "Attacks per day",
   "Attaqué par": "Attacked by",
   "Attention : Risque de rétrogradation": "Warning: Risk of demotion",
   "Aucun": "None",
@@ -338,6 +345,7 @@
   "Points corbeaux de sang cumulés": "Cumulative bloodcrow points",
   "Points d'invasion de Berimond": "Berimond invasion points",
   "Points de Berimond": "Berimond points",
+  "Points de cargo": "Cargo points",
   "Points de corbeaux de sang": "Bloodcrow points",
   "Points de gloire": "Glory points",
   "Points de guerre des royaumes": "War of the Realms points",
@@ -443,6 +451,7 @@
   "Top 100": "Top 100",
   "Top 10k": "Top 10k",
   "Top 1k": "Top 1k",
+  "Total d'aigues-marines collectées": "Total aquamarine collected",
   "Tour royale": "Royal tower",
   "Tour royale abandonnée": "Royal tower abandoned",
   "Tous": "All",
@@ -536,7 +545,8 @@
     "Roue des richesses inimaginables": "Wheel of Unimaginable Affluence",
     "Royaume extérieur": "Outer Realms",
     "Statistiques": "Server statistics",
-    "Événements": "Events"
+    "Événements": "Events",
+    "Îles orageuses": "Storm Islands"
   },
   "miliseconds": "ms",
   "minute": "minute",
@@ -704,5 +714,6 @@
   "Événement du 0 au 0": "Event from {{start}} to {{end}}",
   "Événement en cours": "Current event",
   "Événement indisponible": "Event unavailable",
-  "Événements": "Events"
+  "Événements": "Events",
+  "Îles orageuses": "Storm Islands"
 }

@@ -29,6 +29,11 @@
   "Afficher les tours royales": "Afficher les tours royales",
   "Afficher toutes les séries": "Afficher toutes les séries",
   "Aide": "Aide",
+  "Aigues-marines collectées dans les combats JcJ": "Aigues-marines collectées dans les combats JcJ",
+  "Aigues-marines collectées dans les forts orageux": "Aigues-marines collectées dans les forts orageux",
+  "Aigues-marines collectées dans les îles aux ressources": "Aigues-marines collectées dans les îles aux ressources",
+  "Aigues-marines dépensées pour des points de cargo": "Aigues-marines dépensées pour des points de cargo",
+  "Aigues-marines perdues en combats JcJ": "Aigues-marines perdues en combats JcJ",
   "Ajouter en favoris": "Ajouter en favoris",
   "Ajouter une alliance": "Ajouter une alliance",
   "Aller au mois précédent": "Aller au mois précédent",
@@ -55,6 +60,8 @@
   "Ascendant": "Ascendant",
   "Assigné": "Assigné",
   "Attaquable": "Attaquable",
+  "Attaques cumulées": "Attaques cumulées",
+  "Attaques par jour": "Attaques par jour",
   "Attaqué par": "Attaqué par",
   "Attention : Risque de rétrogradation": "Attention : Risque de rétrogradation",
   "Aucun": "Aucun",
@@ -338,6 +345,7 @@
   "Points corbeaux de sang cumulés": "Points corbeaux de sang cumulés",
   "Points d'invasion de Berimond": "Points d'invasion de Berimond",
   "Points de Berimond": "Points de Berimond",
+  "Points de cargo": "Points de cargo",
   "Points de corbeaux de sang": "Points de corbeaux de sang",
   "Points de gloire": "Points de gloire",
   "Points de guerre des royaumes": "Points de guerre des royaumes",
@@ -443,6 +451,7 @@
   "Top 100": "Top 100",
   "Top 10k": "Top 10k",
   "Top 1k": "Top 1k",
+  "Total d'aigues-marines collectées": "Total d'aigues-marines collectées",
   "Tour royale": "Tour royale",
   "Tour royale abandonnée": "Tour royale abandonnée",
   "Tous": "Tous",
@@ -536,7 +545,8 @@
     "Roue des richesses inimaginables": "Roue des richesses inimaginables",
     "Royaume extérieur": "Royaumes extérieurs",
     "Statistiques": "Statistiques du serveur",
-    "Événements": "Événements"
+    "Événements": "Événements",
+    "Îles orageuses": "Îles orageuses"
   },
   "miliseconds": "ms",
   "minute": "minute",
@@ -704,5 +714,6 @@
   "Événement du 0 au 0": "Événement du {{start}} au {{end}}",
   "Événement en cours": "Événement en cours",
   "Événement indisponible": "Événement indisponible",
-  "Événements": "Événements"
+  "Événements": "Événements",
+  "Îles orageuses": "Îles orageuses"
 }

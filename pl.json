@@ -29,6 +29,11 @@
   "Afficher les tours royales": "Pokaż wieże królewskie",
   "Afficher toutes les séries": "Pokaż wszystkie serie",
   "Aide": "Pomoc",
+  "Aigues-marines collectées dans les combats JcJ": "Akwamaryn zgromadzony w bitwach PvP",
+  "Aigues-marines collectées dans les forts orageux": "Akwamaryn zgromadzony w fortach sztormowych",
+  "Aigues-marines collectées dans les îles aux ressources": "Akwamaryn zgromadzony na wyspach z zasobami",
+  "Aigues-marines dépensées pour des points de cargo": "Akwamaryn przeznaczony na punkty ładunku",
+  "Aigues-marines perdues en combats JcJ": "Akwamaryn utracony w bitwach PvP",
   "Ajouter en favoris": "Dodaj do ulubionych",
   "Ajouter une alliance": "Dodaj sojusz",
   "Aller au mois précédent": "Idź do poprzedniego miesiąca",
@@ -55,6 +60,8 @@
   "Ascendant": "Rosnąco",
   "Assigné": "Przypisany",
   "Attaquable": "Dostepny do zaatakowania",
+  "Attaques cumulées": "Łączna liczba ataków",
+  "Attaques par jour": "Ataki dziennie",
   "Attaqué par": "Zaatakowany przez",
   "Attention : Risque de rétrogradation": "Uwaga: ryzyko degradacji",
   "Aucun": "Brak",
@@ -338,6 +345,7 @@
   "Points corbeaux de sang cumulés": "Łącznie punktów krwawych kruków",
   "Points d'invasion de Berimond": "punkty inwazji Berimondu",
   "Points de Berimond": "Punkty inwazji Berimondu",
+  "Points de cargo": "Punkty ładunku",
   "Points de corbeaux de sang": "Punkty Krwawych Kruków",
   "Points de gloire": "Punkty chwały",
   "Points de guerre des royaumes": "Punkty Wojny Królestw",
@@ -443,6 +451,7 @@
   "Top 100": "Top 100",
   "Top 10k": "Top 10k",
   "Top 1k": "Top 1k",
+  "Total d'aigues-marines collectées": "Łącznie zgromadzony akwamaryn",
   "Tour royale": "Wieża królewska",
   "Tour royale abandonnée": "Wieża królewska porzucona",
   "Tous": "Wszystko",
@@ -536,7 +545,8 @@
     "Roue des richesses inimaginables": "Koło Niewyobrażalnego Dostatku",
     "Royaume extérieur": "Zewnętrzne Krainy",
     "Statistiques": "Statystyki serwera",
-    "Événements": "Wydarzenia"
+    "Événements": "Wydarzenia",
+    "Îles orageuses": "Archipelag Sztormu"
   },
   "miliseconds": "ms",
   "minute": "minuta",
@@ -704,5 +714,6 @@
   "Événement du 0 au 0": "Wydarzenie od {{start}} do {{end}}",
   "Événement en cours": "Bieżące wydarzenie",
   "Événement indisponible": "Wydarzenie niedostępne",
-  "Événements": "Wydarzenia"
+  "Événements": "Wydarzenia",
+  "Îles orageuses": "Archipelag Sztormu"
 }

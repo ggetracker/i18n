@@ -29,6 +29,11 @@
   "Afficher les tours royales": "Toon koningstorens",
   "Afficher toutes les séries": "",
   "Aide": "Hulp",
+  "Aigues-marines collectées dans les combats JcJ": "Aquamarijn verzameld van PvP-gevechten",
+  "Aigues-marines collectées dans les forts orageux": "Aquamarijn verzameld van stormforten",
+  "Aigues-marines collectées dans les îles aux ressources": "Aquamarijn verzameld van bouwstoffeneilanden",
+  "Aigues-marines dépensées pour des points de cargo": "Aquamarijn uitgegeven aan vrachtpunten",
+  "Aigues-marines perdues en combats JcJ": "Aquamarijn verloren in PvP-gevechten",
   "Ajouter en favoris": "Voeg toe in favorieten",
   "Ajouter une alliance": "Voeg een bondgenootschap toe",
   "Aller au mois précédent": "Naar vorige maand",
@@ -55,6 +60,8 @@
   "Ascendant": "Oplopend",
   "Assigné": "Toegewezen",
   "Attaquable": "Kan aangevallen worden",
+  "Attaques cumulées": "Cumulatieve aanvallen",
+  "Attaques par jour": "Aanvallen per dag",
   "Attaqué par": "Aangevallen door",
   "Attention : Risque de rétrogradation": "Waarschuwing: risico op degradatie",
   "Aucun": "Geen",
@@ -338,6 +345,7 @@
   "Points corbeaux de sang cumulés": "Gezamelijke punten bij bloedkraaien",
   "Points d'invasion de Berimond": "Berimond invaise punten",
   "Points de Berimond": "Berimond Punten",
+  "Points de cargo": "Vrachtpunten",
   "Points de corbeaux de sang": "Bloedkraai invasie punten",
   "Points de gloire": "Roem",
   "Points de guerre des royaumes": "Oorlog tegen buitenlanders punten",
@@ -443,6 +451,7 @@
   "Top 100": "Top 100",
   "Top 10k": "Top 10k",
   "Top 1k": "Top 1k",
+  "Total d'aigues-marines collectées": "Totaal verzameld aquamarijn",
   "Tour royale": "Koningstoren",
   "Tour royale abandonnée": "Koningstoren opgegeven",
   "Tous": "Alles",
@@ -536,7 +545,8 @@
     "Roue des richesses inimaginables": "Rad van Onvoorstelbare Overvloed",
     "Royaume extérieur": "Buitenrijken",
     "Statistiques": "Server statistieken",
-    "Événements": "Events"
+    "Événements": "Events",
+    "Îles orageuses": "Stormeilanden"
   },
   "miliseconds": "ms",
   "minute": "minuut",
@@ -704,5 +714,6 @@
   "Événement du 0 au 0": "Event van {{start}} tot {{end}}",
   "Événement en cours": "Huidig event",
   "Événement indisponible": "Onbeschikbaar event",
-  "Événements": "Events"
+  "Événements": "Events",
+  "Îles orageuses": "Stormeilanden"
 }
