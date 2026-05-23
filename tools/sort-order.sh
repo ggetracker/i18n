@@ -11,12 +11,12 @@ if ! command -v jq &> /dev/null; then
   exit 1
 fi
 
-if [ "$#" -eq 0 ]; then
-  echo "Usage: $0 file1.json file2.json, or *.json for all JSON files in the current directory."
-  exit 1
-fi
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$SCRIPT_DIR/.." || exit 1
+FILES=$(find . -maxdepth 1 -type f -name "*.json")
 
-for file in "$@"; do
+for file in $FILES; do
   tmp="$(mktemp)"
   jq -S '.' "$file" > "$tmp" && mv "$tmp" "$file"
+  echo "Sorted keys in $file"
 done
