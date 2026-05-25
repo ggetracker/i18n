@@ -62,7 +62,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>World: 1</gge-server-name>
 			<name>WORLD1</name>
 		</server>
@@ -242,7 +242,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Empire Four Kingdoms - Germany 2</gge-server-name>
 			<name>E4K_DE2</name>
 		</server>
