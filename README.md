@@ -45,6 +45,9 @@ bash tools/i18n.sh <command> [arguments]
 |---------|-------------|
 | `check` | Validate every `.json` file against the `fr.json` reference |
 | `init <lang>` | Scaffold a new translation file pre-filled with GGE game strings |
+| `fill <lang>` | Fill the empty values the game already translates |
+| `missing <lang>` | List the empty values with their French and English references, as JSON |
+| `merge <lang> <file>` | Write a translated `missing` list back into the file |
 | `sync <gge-key> <local-key>` | Pull a GGE in-game string into all language files |
 | `sort` | Sort all `.json` keys alphabetically in-place |
 
@@ -57,6 +60,10 @@ bash tools/i18n.sh check
 # Create a new Spanish translation file (auto-filled with known GGE strings)
 bash tools/i18n.sh init es
 
+# Export what is left to translate, fill the "value" fields, then merge it back
+bash tools/i18n.sh missing es > todo.json
+bash tools/i18n.sh merge es todo.json
+
 # Pull the in-game label for "dialog_inbox_sender" into the "Sender" key
 bash tools/i18n.sh sync dialog_inbox_sender Sender
 
@@ -64,8 +71,13 @@ bash tools/i18n.sh sync dialog_inbox_sender Sender
 bash tools/i18n.sh sort
 ```
 
-The `tools/data/ingame-keys.conf` file controls which GGE keys are auto-populated
-during `init`. Each line maps a local key to its GGE equivalent:
+`init` and `fill` take a value from the game in two ways. First, `tools/data/ingame-keys.conf`
+maps a local key to its GGE key by hand. Then, any key still empty takes the GGE string whose
+French and English texts are both identical to the key's `fr.json` and `en.json` values, so game
+vocabulary (buildings, events, titles) always matches what players see in game. GGE placeholders
+(`{0}`) are converted to the site's (`{{0}}`). Neither command ever overwrites a value that is set.
+
+Each line of `ingame-keys.conf` maps a local key to its GGE equivalent:
 
 ```
 local-key=gge_key_name
