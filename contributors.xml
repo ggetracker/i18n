@@ -26,10 +26,6 @@
     <server>DE1</server>
   </contributor>
   <contributor>
-    <name>Chancli</name>
-    <server>ES1</server>
-  </contributor>
-  <contributor>
     <name>Danadum</name>
     <server>FR1</server>
   </contributor>
@@ -68,6 +64,10 @@
   <contributor>
     <name>Nitro0ogen</name>
     <server>SA1</server>
+  </contributor>
+  <contributor>
+    <name>NYX</name>
+    <server>SKN1</server>
   </contributor>
   <contributor>
     <name>RamonRSilva</name>
